@@ -1,6 +1,6 @@
 package bjoon_test;
 
-public class Main {		// Å¬·¡½º ÀÌ¸§Àº Main °íÁ¤
+public class Main {		// í´ë˜ìŠ¤ ì´ë¦„ "Main"ìœ¼ë¡œ ê³ ì •í•´ì•¼ ì •ìƒì ìœ¼ë¡œ ì±„ì ë¨
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}
